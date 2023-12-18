@@ -5,5 +5,5 @@ This example shows how to use data exchange between processes (Pipe). In this wa
 
 The example is implemented using open source software products: findomain and nmap.
 
-Findomain: https://github.com/Findomain/Findomain
+Findomain: https://github.com/Findomain/Findomain <br>
 Nmap: https://github.com/nmap/nmap
